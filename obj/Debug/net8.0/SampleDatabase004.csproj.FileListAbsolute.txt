@@ -135,3 +135,4 @@ D:\Estudos\Fiap\Repositorios\2NETR\SampleDatabase004\obj\Debug\net8.0\refint\Sam
 D:\Estudos\Fiap\Repositorios\2NETR\SampleDatabase004\obj\Debug\net8.0\SampleDatabase004.pdb
 D:\Estudos\Fiap\Repositorios\2NETR\SampleDatabase004\obj\Debug\net8.0\SampleDatabase004.genruntimeconfig.cache
 D:\Estudos\Fiap\Repositorios\2NETR\SampleDatabase004\obj\Debug\net8.0\ref\SampleDatabase004.dll
+D:\Estudos\Fiap\Repositorios\2NETR\SampleDatabase004\obj\Debug\net8.0\SampleDatabase004.sourcelink.json
