@@ -121,6 +121,7 @@ D:\Estudos\Fiap\Repositorios\2NETR\SampleDatabase004\obj\Debug\net8.0\SampleData
 D:\Estudos\Fiap\Repositorios\2NETR\SampleDatabase004\obj\Debug\net8.0\SampleDatabase004.csproj.CoreCompileInputs.cache
 D:\Estudos\Fiap\Repositorios\2NETR\SampleDatabase004\obj\Debug\net8.0\SampleDatabase004.MvcApplicationPartsAssemblyInfo.cs
 D:\Estudos\Fiap\Repositorios\2NETR\SampleDatabase004\obj\Debug\net8.0\SampleDatabase004.MvcApplicationPartsAssemblyInfo.cache
+D:\Estudos\Fiap\Repositorios\2NETR\SampleDatabase004\obj\Debug\net8.0\SampleDatabase004.sourcelink.json
 D:\Estudos\Fiap\Repositorios\2NETR\SampleDatabase004\obj\Debug\net8.0\staticwebassets.build.json
 D:\Estudos\Fiap\Repositorios\2NETR\SampleDatabase004\obj\Debug\net8.0\staticwebassets.development.json
 D:\Estudos\Fiap\Repositorios\2NETR\SampleDatabase004\obj\Debug\net8.0\staticwebassets\msbuild.SampleDatabase004.Microsoft.AspNetCore.StaticWebAssets.props
@@ -135,4 +136,3 @@ D:\Estudos\Fiap\Repositorios\2NETR\SampleDatabase004\obj\Debug\net8.0\refint\Sam
 D:\Estudos\Fiap\Repositorios\2NETR\SampleDatabase004\obj\Debug\net8.0\SampleDatabase004.pdb
 D:\Estudos\Fiap\Repositorios\2NETR\SampleDatabase004\obj\Debug\net8.0\SampleDatabase004.genruntimeconfig.cache
 D:\Estudos\Fiap\Repositorios\2NETR\SampleDatabase004\obj\Debug\net8.0\ref\SampleDatabase004.dll
-D:\Estudos\Fiap\Repositorios\2NETR\SampleDatabase004\obj\Debug\net8.0\SampleDatabase004.sourcelink.json
